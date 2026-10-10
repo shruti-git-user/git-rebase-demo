@@ -1,1 +1,1 @@
-Original line 1 text
+Main branch conflicting line 1 text
